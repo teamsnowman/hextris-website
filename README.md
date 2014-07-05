@@ -1,2 +1,2 @@
-hextris-website
+Hextris' Website
 ===============
