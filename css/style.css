@@ -1,0 +1,39 @@
+@font-face {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    src: local('Roboto Regular'), local('Roboto-Regular'), url("fonts/roboto.woff") format('woff');
+}
+
+body {
+    color: #2c3e50;
+    font-family: 'Roboto', sans-serif;
+    background-color:#ecf0f1;
+}
+
+#centralCont {
+    position:absolute;
+    width:800px;
+    left:50%;
+    margin-left:-400px;
+    height:400px;
+}
+
+#headerText {
+    text-align:center;
+    font-size:130pt;
+}
+
+#hif {
+    border:2px solid #000;
+}
+
+a {
+    text-decoration:none;
+    color:#2c3e50;
+}
+
+a:hover {
+    text-decoration:underline;
+    color:#2c3e50;
+}
